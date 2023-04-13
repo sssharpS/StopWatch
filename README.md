@@ -4,6 +4,5 @@ This is simple JS stopwatch that uses [`setinterval`](https://developer.mozilla.
 
 ## Quickstart
 - Clone or download the project to your computer
-- Open the project foolder
 - Open `index.html` and you're all set
 
